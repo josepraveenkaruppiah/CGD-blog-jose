@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+A blog website for [Rocket Rebel](https://github.com/josepraveenkaruppiah/CGD-blog-jose).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="josepraveenkaruppiah/CGD-blog-jose"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
