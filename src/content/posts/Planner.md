@@ -1,7 +1,7 @@
 ---
 title: Planner
 published: 2025-03-10
-description: 'Read more about the plan of Rocket Rebels'
+description: 'Read more about the planner of Rocket Rebels'
 image: ''
 tags: [Plan, To-Do]
 category: 'Plan'
