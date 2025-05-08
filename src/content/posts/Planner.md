@@ -25,8 +25,8 @@ lang: 'en'
     - No work done
 
 4. **Jeswin Sunil**
-    - Level Design
-    - Expertise: Environment design, Quality Assurance.
+    - No work done
+    - No work done
 
 5. **Bigyan Shrestha**
     - Character Designer
